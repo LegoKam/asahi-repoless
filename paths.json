@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/asahi-repoless/:/",
+    "/content/asahi-repoless/configuration:/.helix/config.json",
+    "/content/asahi-repoless/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/asahi-repoless/"
   ]
 }
