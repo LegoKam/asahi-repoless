@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p152232-e1579596.adobeaemcloud.com/bin/franklin.delivery/LegoKam/asahi-repoless/main"
+    url: "https://author-p53586-e757175.adobeaemcloud.com/bin/franklin.delivery/LegoKam/asahi-repoless/main"
     type: "markup"
     suffix: ".html"
