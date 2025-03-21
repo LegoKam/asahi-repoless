@@ -18,7 +18,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 80px;
+  height: 100px;
 }
 
 /* brand */
@@ -52,6 +52,7 @@ nav {
   cursor: pointer;
   position: relative;
   padding: 5px 0;
+  font-weight: bold;
 }
 
 .nav-sections li:hover {
@@ -82,7 +83,7 @@ nav {
 
   .nav-sections {
     position: absolute;
-    top: 80px;
+    top: 100px;
     left: 0;
     right: 0;
     background: white;
