@@ -27,7 +27,7 @@ nav {
 }
 
 .nav-brand img {
-  height: 37px;
+  height: 50px;
   width: auto;
 }
 
@@ -35,6 +35,8 @@ nav {
 .nav-sections {
   flex: 1;
   margin: 0 40px;
+  display: flex;
+  align-items: center;
 }
 
 .nav-sections ul {
@@ -44,6 +46,7 @@ nav {
   padding: 0;
   gap: 30px;
   justify-content: center;
+  width: 100%;
 }
 
 .nav-sections li {
