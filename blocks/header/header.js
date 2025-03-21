@@ -105,6 +105,7 @@ function toggleMenu(nav, navSections, forceExpanded = null) {
 
 // Main header functionality
 function decorateHeader(block) {
+  console.log("render-1")
   // Initialize nav state
   const nav = block.querySelector('.nav-wrapper nav');
   const hamburger = nav.querySelector('.nav-hamburger button');
